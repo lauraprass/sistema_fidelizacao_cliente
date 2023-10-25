@@ -9,4 +9,6 @@ Esse foi meu primeiro projeto grande em código. Fiz ele para meu projeto final 
     Notas📝
   </h1> 
 
--Fiz o que foi pedido pelo meu professor em relação aos conteúdos que vimos durante o semestre. Na pasta “conteúdo-solicitado-projeto" é possível verificar quais conteúdos foram requisitados. 
+-Fiz o que foi pedido pelo meu professor em relação aos conteúdos que vimos durante o semestre. Na pasta <a href='https://github.com/lauraprass/sistema_fidelizacao_cliente/tree/main/conteudo-solicitado-projeto' >“conteúdo-solicitado-projeto" </a> é possível verificar quais conteúdos foram requisitados. 
+
+
