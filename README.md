@@ -11,6 +11,6 @@ Esse foi meu primeiro projeto grande em código. Fiz ele para meu projeto final 
 
 -Fiz o que foi pedido pelo meu professor em relação aos conteúdos que vimos durante o semestre. Na pasta <a href='https://github.com/lauraprass/sistema_fidelizacao_cliente/tree/main/conteudo-solicitado-projeto' >“conteúdo-solicitado-projeto" </a> é possível verificar quais conteúdos foram requisitados. 
 <br>
--Esse sistema que desenvolvi foi inspirado e depois adaptado referente ao meu outro projeto da matéria Análise Orientada a Objetos, e se você quiser dar uma olhada nele depois é só 
-<a href='https://github.com/lauraprass/analise_sistema_fidelizacao_cliente' >“clicar aqui" </a>. Mas não esquece de ver o código desse projeto primeiro hahah.
+-Esse sistema que desenvolvi foi inspirado e depois adaptado referente ao meu outro projeto da matéria Análise Orientada a Objetos, e se você quiser dar uma olhada nele depois é só clicar aqui:
+<a href='https://github.com/lauraprass/analise_sistema_fidelizacao_cliente' >“analise_sistema_fidelizacao_cliente" </a>.  Mas não esquece de ver o código desse projeto primeiro hahah.
 
